@@ -52,7 +52,7 @@ table {
     src: url(/assets/fonts/Ogg-Regular.woff2) format('woff2'), /* Super Modern Browsers */
          url(/assets/fonts/Ogg-Regular.woff) format('woff'), /* Pretty Modern Browsers */
          url(/assets/fonts/Ogg-Regular.ttf)  format('truetype'), /* Safari, Android, iOS */
-         /* url(assets/fonts/Ogg-Regular.svg) format(‘svg’); */
+         url(/assets/fonts/Ogg-Regular.svg#Ogg-Regular) format(‘svg’);
 }
 
 body {
