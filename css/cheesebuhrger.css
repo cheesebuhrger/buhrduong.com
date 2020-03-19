@@ -48,11 +48,11 @@ table {
 
 @font-face {
     font-family: Ogg;
-    src: url(/assets/fonts/Ogg-Regular.eot); /* IE9 Compat Modes */
-    src: url(/assets/fonts/Ogg-Regular.woff2) format('woff2'), /* Super Modern Browsers */
-         url(/assets/fonts/Ogg-Regular.woff) format('woff'), /* Pretty Modern Browsers */
-         url(/assets/fonts/Ogg-Regular.ttf)  format('truetype'), /* Safari, Android, iOS */
-         url(/assets/fonts/Ogg-Regular.svg#Ogg-Regular) format(‘svg’);
+    src: url(../assets/fonts/Ogg-Regular.eot); /* IE9 Compat Modes */
+    src: url(../assets/fonts/Ogg-Regular.woff2) format('woff2'), /* Super Modern Browsers */
+         url(../assets/fonts/Ogg-Regular.woff) format('woff'), /* Pretty Modern Browsers */
+         url(../assets/fonts/Ogg-Regular.ttf)  format('truetype'), /* Safari, Android, iOS */
+         /* url(../assets/fonts/Ogg-Regular.svg#Ogg-Regular) format(‘svg’); */
 }
 
 body {
