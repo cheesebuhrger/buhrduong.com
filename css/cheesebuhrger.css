@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+@font-face {
+    font-family: Ogg;
+    src: url(../assets/fonts/Ogg-Regular.eot); /* IE9 Compat Modes */
+    src: url(../assets/fonts/Ogg-Regular.woff2) format('woff2'), /* Super Modern Browsers */
+         url(../assets/fonts/Ogg-Regular.woff) format('woff'), /* Pretty Modern Browsers */
+         url(../assets/fonts/Ogg-Regular.ttf)  format('truetype'), /* Safari, Android, iOS */
+         url(../assets/fonts/Ogg-Regular.svg#Ogg-Regular) format(‘svg’);
+}
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -46,16 +55,6 @@ table {
 
 
 /* -----reset----- */
-
-
-@font-face {
-    font-family: Ogg;
-    src: url(../assets/fonts/Ogg-Regular.eot); /* IE9 Compat Modes */
-    src: url(../assets/fonts/Ogg-Regular.woff2) format('woff2'), /* Super Modern Browsers */
-         url(../assets/fonts/Ogg-Regular.woff) format('woff'), /* Pretty Modern Browsers */
-         url(../assets/fonts/Ogg-Regular.ttf)  format('truetype'), /* Safari, Android, iOS */
-         url(../assets/fonts/Ogg-Regular.svg#Ogg-Regular) format(‘svg’);
-}
 
 body {
     font-size: 10px;
