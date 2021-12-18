@@ -2,11 +2,11 @@
 
 @font-face {
     font-family: Ogg;
-    src: url(https://github.com/cheesebuhrger/buhrduong.com/blob/5885097956779867a6912cef40852282d4c24661/fonts/Ogg-Regular.eot); /* IE9 Compat Modes */
-    src: url(https://github.com/cheesebuhrger/buhrduong.com/blob/5885097956779867a6912cef40852282d4c24661/fonts/Ogg-Regular.woff2) format('woff2'), /* Super Modern Browsers */
-         url(https://github.com/cheesebuhrger/buhrduong.com/blob/5885097956779867a6912cef40852282d4c24661/fonts/Ogg-Regular.woff) format('woff'), /* Pretty Modern Browsers */
-         url(https://github.com/cheesebuhrger/buhrduong.com/blob/5885097956779867a6912cef40852282d4c24661/fonts/Ogg-Regular.ttf) format('truetype'), /* Safari, Android, iOS */
-         url(https://github.com/cheesebuhrger/buhrduong.com/blob/5885097956779867a6912cef40852282d4c24661/fonts/Ogg-Regular.svg) format(‘svg’);
+    src: url('https://github.com/cheesebuhrger/buhrduong.com/blob/5885097956779867a6912cef40852282d4c24661/fonts/Ogg-Regular.eot'); /* IE9 Compat Modes */
+    src: url('https://github.com/cheesebuhrger/buhrduong.com/blob/5885097956779867a6912cef40852282d4c24661/fonts/Ogg-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('https://github.com/cheesebuhrger/buhrduong.com/blob/5885097956779867a6912cef40852282d4c24661/fonts/Ogg-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+         url('https://github.com/cheesebuhrger/buhrduong.com/blob/5885097956779867a6912cef40852282d4c24661/fonts/Ogg-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('https://github.com/cheesebuhrger/buhrduong.com/blob/5885097956779867a6912cef40852282d4c24661/fonts/Ogg-Regular.svg') format(‘svg’);
 }
 
 html, body, div, span, applet, object, iframe,
